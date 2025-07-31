@@ -4,7 +4,7 @@
   <b>Student | Data Science Explorer | Python-Powered Thinker | AI Vibe Coder 💻⚡</b><br>
   Learning one line of code at a time — building data muscles and digital presence daily.
 </p>
-
+<img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
 ---
 
 ### 🚀 Current Focus
