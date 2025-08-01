@@ -10,7 +10,7 @@
 ### 🚀 Current Focus
 - 📊 Leveling up in Data Science (Python, SQL, Pandas, Power BI)
 - 📈 Exploring GitHub-driven projects & portfolio building
-- ⚒️ Projects cooking: `Anime Recommendations-EDA`, `SQL-Dash`, and `Emily.v2`
+- ⚒️ Projects cooking: `Anime-EDA`, `SQL-Dash`, and `Emily.v2`
 
 ---
 
@@ -26,7 +26,7 @@
 ---
 
 ### 📂 Featured Projects (Coming Soon...)
-- `Anime Recommendations-EDA` – Exploratory data analysis with visuals
+- `Anime-EDA` – Exploratory data analysis with visuals✅
 - `SQL-Playground` – Query logs + insights on sample DBs
 - `Emily.v2` – Emotion-aware chatbot powered by prompt magic
 
