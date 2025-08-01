@@ -26,7 +26,7 @@
 ---
 
 ### 📂 Featured Projects (Coming Soon...)
-- `Netflix-EDA` – Exploratory data analysis with visuals
+- `Anime Recommendations-EDA` – Exploratory data analysis with visuals
 - `SQL-Playground` – Query logs + insights on sample DBs
 - `Emily.v2` – Emotion-aware chatbot powered by prompt magic
 
