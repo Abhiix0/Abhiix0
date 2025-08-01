@@ -10,7 +10,7 @@
 ### 🚀 Current Focus
 - 📊 Leveling up in Data Science (Python, SQL, Pandas, Power BI)
 - 📈 Exploring GitHub-driven projects & portfolio building
-- ⚒️ Projects cooking: `Netflix-EDA`, `SQL-Dash`, and `Emily.v2`
+- ⚒️ Projects cooking: `Anime Recommendations-EDA`, `SQL-Dash`, and `Emily.v2`
 
 ---
 
