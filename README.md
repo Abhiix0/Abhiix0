@@ -13,6 +13,15 @@
 - ⚒️ Projects cooking: `Anime-EDA`, `SQL-Dash`, and `Emily.v2`
 
 ---
+### 📊 GitHub Intelligence Report
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhiix0&theme=radical&hide_border=true&cache_seconds=86400)
+
+---
 
 ### 🧰 Stack In Progress
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
