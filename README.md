@@ -8,13 +8,9 @@
 ### 💻 My current tech identity
 
 I’m in that **early builder era**, but my energy is long-game.  
-I’m not just learning — I’m mastering.  
 I love building cool stuff, solving real problems, and leveling up **one sharp project at a time**.
 
-
 ---
-
-
 
 ### 🧠 tech mindset
 
@@ -32,7 +28,6 @@ I love building cool stuff, solving real problems, and leveling up **one sharp p
 - **Git & GitHub** → versioning my builds, crafting dope READMEs
 - **Jupyter Notebooks** → my DS playground
 - **CLI, VS Code, Cursor IDE** → i’m vibing with the terminal flow
-
 
 ---
 
