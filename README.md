@@ -75,7 +75,8 @@ ship projects that speak louder than words.**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&cache_seconds=10" width="48%" alt="Top Languages" />
+
 </p>
 
 ---
