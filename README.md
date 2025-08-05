@@ -70,7 +70,7 @@ ship projects that speak louder than words.**
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&hide=stars&theme=tokyonight&count_private=true" width="48%" alt="Abhiix0's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&hide=stars&theme=tokyonight&count_private=true&cache_seconds=10" width="48%" alt="Abhiix0's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiix0&theme=tokyonight" width="48%" alt="Abhiix0's GitHub Streak" />
 </p>
 
