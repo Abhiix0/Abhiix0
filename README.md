@@ -1,7 +1,7 @@
 <!-- ABHI's GitHub README -->
 
 <h1 align="center">hey, i'm Abhi 👋</h1>
-<p align="center">early-stage builder | curious coder | Data Explorer</p>
+<p align="center">Early-stage builder | curious coder | Data Explorer</p>
 
 ---
 
@@ -49,7 +49,7 @@ I love building cool stuff, solving real problems, and leveling up **one sharp p
 - 🌐 exploring databases + web dev (just enough to ship ideas fast)
 
 ---
-<img align="right" alt="GIF" height="150px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
+<img align="right" alt="GIF" height="130px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
 
 ### 🧩 tech persona
 
