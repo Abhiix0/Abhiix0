@@ -33,22 +33,23 @@ I love building cool stuff, solving real problems, and leveling up **one sharp p
 
 ### 🛠️ tools & ecosystems I’ve touched
 
-- git / github / markdown game on point
-- nvm / node.js / npm (setup from scratch like a real dev)
-- AI tools: ChatGPT, Claude, Perplexity, and a bunch more
-- bolt.new/lovable.app for website gen 🔧
-- cursor & VS Code — where the real work happens
+- git / github / markdown game on point  
+- nvm / node.js / npm (setup from scratch like a real dev)  
+- AI tools: ChatGPT, Claude, Perplexity, and a bunch more  
+- bolt.new / lovable.app for website gen 🔧  
+- Cursor & VS Code — where the real work happens  
 
 ---
 
 ### 🧭 What I’m eyeing next
 
-- 🚀 **data science deep dive** (clean data, explore data, model data)
-- 🧠 intro to **AI/ML** — not chasing hype, but building real intuition
-- 🧮 learning **DSA** (with Python — gotta keep it smooth)
-- 🌐 exploring databases + web dev (just enough to ship ideas fast)
+- 🚀 **data science deep dive** (clean data, explore data, model data)  
+- 🧠 intro to **AI/ML** — not chasing hype, but building real intuition  
+- 🧮 learning **DSA** (with Python — gotta keep it smooth)  
+- 🌐 exploring databases + web dev (just enough to ship ideas fast)  
 
 ---
+
 <img align="right" alt="GIF" height="130px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
 
 ### 🧩 tech persona
@@ -57,7 +58,6 @@ I love building cool stuff, solving real problems, and leveling up **one sharp p
 > 🛠 obsessed with efficient systems  
 > 🧱 projects over perfection  
 > 🧠 goes deep, stays focused, moves silently
-
 
 ---
 
@@ -69,21 +69,23 @@ ship projects that speak louder than words.**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&hide=stars&theme=tokyonight&count_private=true&cache_seconds=10" width="48%" alt="Abhiix0's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiix0&theme=tokyonight" width="48%" alt="Abhiix0's GitHub Streak" />
-</p>
+##### 📊 GitHub Intelligence Report
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&cache_seconds=10" width="48%" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhiix0&theme=radical&hide_border=true&cache_seconds=86400)
 
 ---
-
 
 ### 🪄 let’s connect
 
 If you’re building, learning, or just vibing in tech —  
 > ping me, collab with me, or watch me build in public.
-
+> <p align="center">
+  <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a><br>
+  📬 24r21a6778@mlrit.ac.in
+</p>
