@@ -1,81 +1,51 @@
 <!-- ABHI's GitHub README -->
 
 <h1 align="center">hey, i'm Abhi 👋</h1>
-<p align="center">Early-stage builder | curious coder | Data Explorer</p>
+<p align="center">Early-stage builder | Curious Coder | Data Explorer</p>
 
 ---
 
-### 💻 My current tech identity
-
-I’m in that **early builder era**, but my energy is long-game.  
-I love building cool stuff, solving real problems, and leveling up **one sharp project at a time**.
-
----
-
-### 🧠 tech mindset
-
-- 🔁 **projects > theory** — I learn by doing, breaking, and rebuilding.
-- 🤔 no “tutorial hell” — I go deep to understand the **why**, then build it my way.
-
----
-
-### 🔧 current stack
-
-- **Python** → my main character right now:
-  - basics ✅ (loops, functions, OOP, file handling)
-  - data science foundation ✅ (`pandas`, `numpy`, `matplotlib`, `seaborn`)
-  - ran my first EDA project (📊 *Anime Dataset* — that was 🔥)
-- **Git & GitHub** → versioning my builds, crafting dope READMEs
-- **Jupyter Notebooks** → my DS playground
-- **CLI, VS Code, Cursor IDE** → i’m vibing with the terminal flow
-
----
-
-### 🛠️ tools & ecosystems I’ve touched
-
-- git / github / markdown game on point  
-- nvm / node.js / npm (setup from scratch like a real dev)  
-- AI tools: ChatGPT, Claude, Perplexity, and a bunch more  
-- bolt.new / lovable.app for website gen 🔧  
-- Cursor & VS Code — where the real work happens  
-
----
-
-### 🧭 What I’m eyeing next
-
-- 🚀 **data science deep dive** (clean data, explore data, model data)  
-- 🧠 intro to **AI/ML** — not chasing hype, but building real intuition  
-- 🧮 learning **DSA** (with Python — gotta keep it smooth)  
-- 🌐 exploring databases + web dev (just enough to ship ideas fast)  
-
----
-
-<img align="right" alt="GIF" height="130px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
-
-### 🧩 tech persona
+## 🚀 About Me
+I’m in my **early builder era**, playing the long game — solving real problems and leveling up **one sharp project at a time**.  
+I learn by **doing, breaking, and rebuilding** — no “tutorial hell,” just deep understanding and my own spin.  
 
 > 🧘 calm builder with loud results  
 > 🛠 obsessed with efficient systems  
 > 🧱 projects over perfection  
-> 🧠 goes deep, stays focused, moves silently
+> 🧠 goes deep, stays focused, moves silently  
+
+**Current Mission:** Build consistently. Learn deliberately. Ship projects that speak louder than words.
 
 ---
 
-### 🚀 current mission
+## 💻 Tech Stack
+**Main Focus:**  
+- **Python** → Loops, functions, OOP, file handling, data science foundations (`pandas`, `numpy`, `matplotlib`, `seaborn`)  
+- First EDA project: 📊 *Anime Dataset*  
+- **Git & GitHub** → version control + crafting solid READMEs  
+- **Jupyter Notebooks** → data science playground  
+- **CLI, VS Code, Cursor IDE** → terminal flow + efficient dev environment  
 
-**Build consistently.  
-learn deliberately.  
-ship projects that speak louder than words.**
+**Ecosystems & Tools Touched:**  
+- Markdown, Node.js (nvm, npm)  
+- AI tools: ChatGPT, Claude, Perplexity  
+- bolt.new, lovable.app  
+- Comfortable setting up dev tools from scratch  
 
----
+**Next Up:**  
+- Deep dive into data science (clean, explore, model)  
+- Intro to AI/ML (intuition over hype)  
+- Learn DSA in Python  
+- Explore databases + web dev for fast prototyping  
+
+<img align="right" alt="GIF" height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbXg0d2JnYThiNnZlNmtqNGFkanhqaWF1Z3lzdjZ5bjJyd212ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
+
 
 ##### 📊 GitHub Intelligence Report
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhiix0&theme=radical&hide_border=true&cache_seconds=86400)
 
 ---
 
