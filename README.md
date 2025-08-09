@@ -21,7 +21,6 @@ I learn by **doing, breaking, and rebuilding** — no “tutorial hell,” just 
 ## 💻 Tech Stack
 **Main Focus:**  
 - **Python** → Loops, functions, OOP, file handling, data science foundations (`pandas`, `numpy`, `matplotlib`, `seaborn`)  
-- First EDA project: 📊 *Anime Dataset*  
 - **Git & GitHub** → version control + crafting solid READMEs  
 - **Jupyter Notebooks** → data science playground  
 - **CLI, VS Code, Cursor IDE** → terminal flow + efficient dev environment  
