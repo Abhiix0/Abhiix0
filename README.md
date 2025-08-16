@@ -45,10 +45,9 @@ I learn by **doing, breaking, and rebuilding** — no “tutorial hell,” just 
 
 ## 📊 GitHub Insights  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true)  
+ 
 ---
 
 ## 🪄 Let’s Connect  
