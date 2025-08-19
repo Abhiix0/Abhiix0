@@ -1,28 +1,30 @@
 <!-- ABHI's GitHub README -->
 
-<h1 align="center">Hey, I'm Abhi 👋</h1>
-<p align="center">Early-stage Builder | Curious Coder | Data Explorer</p>
+<h1 align="center">✨ Yo, I'm Abhi 👋</h1>
+<p align="center"><b>Early-Stage Builder | Curious Coder | Data Explorer</b></p>
 
 ---
 
 ## 🚀 About Me  
-I’m in my **early builder era**, playing the long game — solving real problems and leveling up **one sharp project at a time**.  
-I learn by **doing, breaking, and rebuilding** — no “tutorial hell,” just deep understanding and my own spin.  
+I’m in my **builder arc**, playing the long game — solving problems and stacking projects like XP.  
+No “tutorial hell” — just **breaking, fixing, and innovating** until it clicks.  
 
-> 🧘 Calm builder with loud results  
-> 🛠 Obsessed with efficient systems  
-> 🧱 Projects over perfection  
-> 🧠 Goes deep, stays focused, moves silently  
+> 🧘 Calm mind, loud results  
+> ⚡ Systems over chaos  
+> 🛠 Projects > Perfection  
+> 🧠 Deep focus, silent moves  
 
 **🎯 Current Mission:** *Build consistently. Learn deliberately. Ship projects that speak louder than words.*  
 
-<img align="center" alt="GIF" height="220px" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
+<div align="center">
+  <img alt="Builder GIF" height="220px" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif"/>
+</div>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Arsenal  
 
-**Core:**  
+**Core Stack:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
@@ -43,21 +45,29 @@ I learn by **doing, breaking, and rebuilding** — no “tutorial hell,” just 
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Grind  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true)  
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+### 🔥 Weekly Contribution Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhiix0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
+</p>
+
 ---
 
 ## 🪄 Let’s Connect  
 
-If you’re building, learning, or just vibing in tech —  
-> ping me, collab with me, or watch me build in public.  
+If you’re **building, learning, or vibing in tech** —  
+> ping me, collab with me, or just watch me build in public 👨‍💻  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a><br>
+  </a>
+  <br><br>
   📬 24r21a6778@mlrit.ac.in
 </p>
