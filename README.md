@@ -9,11 +9,6 @@
 I’m in my **builder arc**, playing the long game — solving problems and stacking projects like XP.  
 No “tutorial hell” — just **breaking, fixing, and innovating** until it clicks.  
 
-> 🧘 Calm mind, loud results  
-> ⚡ Systems over chaos  
-> 🛠 Projects > Perfection  
-> 🧠 Deep focus, silent moves  
-
 **🎯 Current Mission:** *Build consistently. Learn deliberately. Ship projects that speak louder than words.*  
 
 <div align="center">
