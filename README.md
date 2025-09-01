@@ -1,7 +1,7 @@
 <!-- ABHI's GitHub README -->
 
 <h1 align="center">✨ Yo, I'm Abhi 👋</h1>
-<p align="center"><b>Early-Stage Builder | Curious Coder | Data Explorer</b></p>
+<p align="center"><b>Curious Coder | Data Explorer</b></p>
 
 ---
 
