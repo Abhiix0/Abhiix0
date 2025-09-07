@@ -4,8 +4,7 @@
 <p align="center"><b>Curious Coder | Data Explorer</b></p>
 
 ---
-
-## 🚀 About Me  
+ 
 Just your *average* Curious guy
 <div align="center">
   <img alt="Builder GIF" height="220px" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif"/>
