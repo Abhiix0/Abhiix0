@@ -1,16 +1,12 @@
 <!-- ABHI's GitHub README -->
 
-<h1 align="center">✨ Yo, I'm Abhi 👋</h1>
+<h1 align="center">✨ Yoo, I'm Abhi 👋</h1>
 <p align="center"><b>Curious Coder | Data Explorer</b></p>
 
 ---
 
 ## 🚀 About Me  
-I’m in my **builder arc**, playing the long game — solving problems and stacking projects like XP.  
-No “tutorial hell” — just **breaking, fixing, and innovating** until it clicks.  
-
-**🎯 Current Mission:** *Build consistently. Learn deliberately. Ship projects that speak louder than words.*  
-
+Just your *average* Curious guy
 <div align="center">
   <img alt="Builder GIF" height="220px" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif"/>
 </div>
