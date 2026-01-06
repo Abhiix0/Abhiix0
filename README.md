@@ -1,5 +1,3 @@
-<!-- ABHI's GitHub README -->
-
 <h1 align="center">✨ Hey, I'm Abhi 👋</h1>
 <p align="center"><b>Just your Average Curious Guy.</b></p>
 
@@ -14,8 +12,8 @@
 ## 📊 GitHub Grind  
 
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -23,7 +21,7 @@
 ### 🔥 Weekly Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhiix0&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiix0&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
