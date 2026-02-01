@@ -47,13 +47,10 @@
 
 ### 🔥 Consistency Check 
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Abhiix0&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhiix0&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=react-dark)
 
 ---
 
