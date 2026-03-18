@@ -62,7 +62,6 @@
 | Project | Tools | Description |
 |---|---|---|
 | [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, Excel | Interactive dashboards turning raw data into visual stories |
-| [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst) | Python, Pandas, NumPy | Python-powered data analysis and insights pipeline |
 | New project coming soon | — | Currently building — watch this space |
 
 ---
