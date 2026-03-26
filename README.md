@@ -19,7 +19,7 @@
 ###  About Me
 
 - B.Tech @ MLRIT, Hyderabad — into Data Analysis & DS
-- Python · SQL · Power BI · Agentic AI (N8N, Lyzr)
+- Python · SQL · Power BI
 - Open to Data Analyst / Data Science internships
     </td>
     <td valign="top" width="45%">
