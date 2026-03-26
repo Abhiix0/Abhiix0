@@ -61,7 +61,8 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, Excel | Interactive dashboards turning raw data into visual stories |
+| [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Interactive dashboards turning raw data into visual stories |
+| [AI-data-analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python | A multi-agent data analysis tool built with Python and Streamlit |
 | New project coming soon | — | Currently building — watch this space |
 
 ---
