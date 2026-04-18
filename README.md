@@ -88,8 +88,8 @@
   </a>
 </p>
 
-<p align="center">📬 <b>24r21a6778@mlrit.ac.in</b></p>
+<p align="center">📬 <b>abhinavsai039@gmail.com</b></p>
 
 ---
 
-<p align="center"><i>Still curious. Now shipping data.</i></p>
+<p align="center"><i>Still curious.</i></p>
