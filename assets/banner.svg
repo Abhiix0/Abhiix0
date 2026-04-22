@@ -74,6 +74,6 @@
     filter="url(#textShadow)"
   >
     <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="2.2s" fill="freeze"/>
-    Name&#x2019;s Abhinav
+     ASG
   </text>
 </svg>
