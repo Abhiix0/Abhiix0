@@ -1,17 +1,104 @@
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%">
-      <stop offset="0%" stop-color="#22D3EE">
-        <animate attributeName="stop-color" values="#22D3EE;#0f172a;#22D3EE" dur="6s" repeatCount="indefinite"/>
-      </stop>
+    <!-- Dark navy-to-black radial background -->
+    <radialGradient id="bgGrad" cx="15%" cy="50%" r="60%" fx="10%" fy="50%">
+      <stop offset="0%" stop-color="#0a2a4a"/>
+      <stop offset="50%" stop-color="#050d1a"/>
       <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <!-- Right side subtle blue glow -->
+    <radialGradient id="bgGrad2" cx="85%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0a2a4a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Cyan corner glow - left -->
+    <radialGradient id="glowLeft" cx="0%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.85"/>
+      <stop offset="60%" stop-color="#0077aa" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Cyan corner glow - right -->
+    <radialGradient id="glowRight" cx="100%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.7"/>
+      <stop offset="60%" stop-color="#0077aa" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subtle top-right glow -->
+    <radialGradient id="glowTopRight" cx="100%" cy="0%" r="50%">
+      <stop offset="0%" stop-color="#00c8e0" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Metallic silver gradient for text -->
+    <linearGradient id="textMetal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e0e8f0"/>
+      <stop offset="35%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#b0bec5"/>
+      <stop offset="80%" stop-color="#90a4ae"/>
+      <stop offset="100%" stop-color="#cfd8dc"/>
     </linearGradient>
+
+    <!-- Rounded rect clip -->
+    <clipPath id="roundClip">
+      <rect width="800" height="200" rx="18" ry="18"/>
+    </clipPath>
+
+    <!-- Outer glow filter for border -->
+    <filter id="borderGlow" x="-5%" y="-10%" width="110%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Subtle text shadow -->
+    <filter id="textShadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00bcd4" flood-opacity="0.25"/>
+    </filter>
   </defs>
 
-  <rect width="800" height="200" fill="url(#grad)" />
+  <!-- Base dark bg -->
+  <rect width="800" height="200" rx="18" ry="18" fill="#020810"/>
 
-  <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="40" font-family="Arial">
-    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
-    Name’s Abhinav
+  <!-- Main dark gradient layer -->
+  <rect width="800" height="200" rx="18" ry="18" fill="url(#bgGrad)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="200" rx="18" ry="18" fill="url(#bgGrad2)" clip-path="url(#roundClip)"/>
+
+  <!-- Corner glow overlays -->
+  <rect width="800" height="200" rx="18" ry="18" fill="url(#glowLeft)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="200" rx="18" ry="18" fill="url(#glowRight)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="200" rx="18" ry="18" fill="url(#glowTopRight)" clip-path="url(#roundClip)"/>
+
+  <!-- Rounded border with cyan glow -->
+  <rect x="1" y="1" width="798" height="198" rx="17" ry="17"
+        fill="none"
+        stroke="#00bcd4"
+        stroke-width="1.5"
+        stroke-opacity="0.6"
+        filter="url(#borderGlow)"/>
+
+  <!-- Inner very subtle border highlight -->
+  <rect x="3" y="3" width="794" height="194" rx="15" ry="15"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="0.4"
+        stroke-opacity="0.08"/>
+
+  <!-- Metallic silver text with fade-in -->
+  <text
+    x="50%" y="54%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="url(#textMetal)"
+    font-size="46"
+    font-family="'Helvetica Neue', Helvetica, 'Arial', sans-serif"
+    font-weight="300"
+    letter-spacing="2"
+    filter="url(#textShadow)"
+  >
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="2.2s" fill="freeze"/>
+    Name&#x2019;s Abhinav
   </text>
 </svg>
