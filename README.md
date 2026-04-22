@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Profile+Views&color=22D3EE&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Views&color=1f2937&labelColor=0f172a&style=flat" />
 </p>
-
 ---
 
 <table>
