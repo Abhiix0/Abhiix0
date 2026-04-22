@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b> Between questions and answers</b>
+  <b>Between questions and answers</b>
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
     </td>
   </tr>
 </table>
+<p align="center"><i>“Not done yet.”</i></p>
 
 ---
 
@@ -81,17 +82,23 @@
 ## Dev Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiix0/Abhiix0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiix0/Abhiix0/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Abhiix0/Abhiix0/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
-
 ## Get in Touch
 
 <p align="center">
@@ -104,4 +111,4 @@
 
 ---
 
-<p align="center"><i>Building systems that think. One project at a time.</i></p>
+<p align="center"><i>Work in progress.</i></p>
