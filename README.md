@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 </p>
 
 ---
@@ -86,8 +86,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 
 ---
 
