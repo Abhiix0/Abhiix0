@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:22D3EE,100:000000&text=Hey,%20I'm%20Abhinav...&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:22D3EE,100:000000&text=Name%27s%20Abhinav&fontSize=48&fontColor=ffffff&stroke=ffffff&strokeWidth=0.5&animation=twinkling" />
 </p>
 
 <p align="center">
-  <b> Data Analysis &nbsp;·&nbsp; Curious by default · Always building something</b>
+  <b> Between questions and answers</b>
 </p>
 
 <p align="center">
@@ -16,11 +16,13 @@
   <tr>
     <td valign="top" width="55%">
 
-###  About Me
+### Who I Am?
 
-- B.Tech @ MLRIT, Hyderabad — into Data Analysis & DS
-- Python · SQL · Power BI
-- Open to Data Analyst / Data Science internships
+- B.Tech @ MLRIT, Hyderabad  
+- Building AI + data systems & interactive tools  
+- Exploring automation, agents & backend depth  
+- Open to Data / AI / Backend internships
+
     </td>
     <td valign="top" width="45%">
       <img alt="Builder GIF" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%" />
@@ -30,44 +32,53 @@
 
 ---
 
-## Tech Stack
+## My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,react,git,github,docker,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualisation-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c8cbf?style=flat"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Analysis-4c8cbf?style=flat"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Dashboards%20%26%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-Design%20%26%20Integration-FF6C37?style=flat"/>
   <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/N8N-Agentic%20AI-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lyzr%20Studio-AI%20Agents-6C47FF?style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render%20%7C%20Netlify-000000?style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lyzr%20Studio-Agentic%20AI-6C47FF?style=flat"/>
 </p>
 
 ---
 
-## Featured Projects
+## What I’ve Built
 
 | Project | Tools | Description |
 |---|---|---|
-| [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Interactive dashboards turning raw data into visual stories |
-| [AI-data-analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python | A multi-agent data analysis tool built with Python and Streamlit |
-| New project coming soon | — | Currently building — watch this space |
+| [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Built interactive dashboards to transform messy datasets into clear, actionable insights |
+| [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python, Streamlit | Multi-agent system that analyzes datasets and generates insights using AI-driven workflows |
+| Upcoming System Project | — | Currently building an AI-powered system combining data, APIs, and automation |
 
 ---
 
-## GitHub Activity
+## Dev Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=radical&hide_border=true" height="165" />
@@ -80,7 +91,7 @@
 
 ---
 
-## Let's Connect
+## Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
@@ -92,4 +103,4 @@
 
 ---
 
-<p align="center"><i>Still curious.</i></p>
+<p align="center"><i>Building systems that think. One project at a time.</i></p>
