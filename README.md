@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Views&color=1f2937&labelColor=0f172a&style=flat" />
 </p>
----
 
 <table>
   <tr>
@@ -28,7 +27,6 @@
     </td>
   </tr>
 </table>
-<p align="center"><i>“Not done yet.”</i></p>
 
 ---
 
