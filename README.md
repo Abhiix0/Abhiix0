@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:22D3EE,100:000000&text=Name%27s%20Abhinav&fontSize=48&fontColor=ffffff&stroke=ffffff&strokeWidth=0.5&animation=twinkling" />
+  <img src="./assets/banner.svg" />
 </p>
 
 <p align="center">
