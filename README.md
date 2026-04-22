@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Between questions and answers</b>
+  <b>Logic meeting longing</b>
 </p>
 
 <p align="center">
@@ -64,7 +64,8 @@
   <img src="https://img.shields.io/badge/Lyzr%20Studio-Agentic%20AI-6C47FF?style=flat"/>
 </p>
 
----
+<p align="center"><i>· · · always expanding · · ·</i></p>
+
 
 ## What I’ve Built
 
@@ -72,7 +73,6 @@
 |---|---|---|
 | [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Built interactive dashboards to transform messy datasets into clear, actionable insights |
 | [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python, Streamlit | Multi-agent system that analyzes datasets and generates insights using AI-driven workflows |
-| Upcoming System Project | — | Currently building an AI-powered system combining data, APIs, and automation |
 
 ---
 
@@ -108,4 +108,4 @@
 
 ---
 
-<p align="center"><i>Work in progress.</i></p>
+<p align="center"><i>Always building something.</i></p>
