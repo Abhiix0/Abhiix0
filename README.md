@@ -37,6 +37,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat"/>
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat"/>
