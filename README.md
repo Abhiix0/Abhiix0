@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Logic meeting longing</b>
+  <i>logic meeting longing</i>
 </p>
 
 <p align="center">
@@ -74,8 +74,8 @@
 |---|---|---|
 | [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Built interactive dashboards to transform messy datasets into clear, actionable insights |
 | [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python, Streamlit | Multi-agent system that analyzes datasets and generates insights using AI-driven workflows |
+<br>
 
----
 
 ## Dev Activity
 
@@ -109,4 +109,4 @@
 
 ---
 
-<p align="center"><i>Always building something.</i></p>
+<p align="center"><i>still loading new skills...</i></p>
