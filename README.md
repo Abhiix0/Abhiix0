@@ -14,8 +14,10 @@
   <tr>
     <td valign="top" width="55%">
 
-### Who I Am?
 
+### Who I Am?
+<!-- SYSTEM_STATUS_START -->
+<!-- SYSTEM_STATUS_END -->
 - B.Tech @ MLRIT, Hyderabad  
 - Building AI + data systems & interactive tools  
 - Exploring automation, agents & backend depth  
