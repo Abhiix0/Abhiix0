@@ -60,7 +60,7 @@ status_block = (
     "```txt\n"
     "+ curiosity        : online\n"
     "+ sleep_schedule   : unstable\n"
-    f"+ current_project  : AI-Data-Analyst\n"
+    f"+ current_project  : {current_project}\n"
     f"+ latest_commit    : {latest_commit}\n"
     f"+ activity_heat    : {activity_heat}\n"
     "```\n\n"
@@ -86,3 +86,12 @@ with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(updated_readme)
 
 print(f"README updated — latest_commit: {latest_commit}, activity_heat: {activity_heat}")
+
+# -----------------------------
+# Get current project
+# -----------------------------
+try:
+    with open("data/current_project.txt", "r", encoding="utf-8") as f:
+        current_project = f.read().strip()
+except FileNotFoundError:
+    current_project = "unknown"
