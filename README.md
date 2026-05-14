@@ -14,16 +14,17 @@
   <tr>
     <td valign="top" width="55%">
 
+## system.status
 
-### Who I Am?
-<!-- SYSTEM_STATUS_START -->
-<!-- SYSTEM_STATUS_END -->
-- B.Tech @ MLRIT, Hyderabad  
-- Building AI + data systems & interactive tools  
-- Exploring automation, agents & backend depth  
-- Open to Data / AI / Backend internships
+```txt
++ curiosity        : online
++ sleep_schedule   : unstable
++ current_project  : AI-Data-Analyst
++ latest_commit    : 2026.05.14
++ activity_heat    : HIGH
+```
 
-    </td>
+  </td>
     <td valign="top" width="45%">
       <img alt="Builder GIF" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%" />
     </td>
@@ -70,12 +71,13 @@
 <p align="center"><i>· · · always expanding · · ·</i></p>
 
 
-## What I’ve Built
+## What I've Built
 
 | Project | Tools | Description |
 |---|---|---|
 | [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Built interactive dashboards to transform messy datasets into clear, actionable insights |
 | [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python, Streamlit | Multi-agent system that analyzes datasets and generates insights using AI-driven workflows |
+
 <br>
 
 
@@ -99,6 +101,7 @@
 </p>
 
 ---
+
 ## Get in Touch
 
 <p align="center">
