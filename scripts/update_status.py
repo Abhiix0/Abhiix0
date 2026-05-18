@@ -1,6 +1,7 @@
 from datetime import datetime
 import requests
 import sys
+import re
 
 USERNAME = "Abhiix0"
 README_FILE = "README.md"
@@ -32,7 +33,9 @@ for event in events:
         if latest_commit == "unknown":
             latest_commit = event["created_at"][:10]
 
-# Format date
+# -----------------------------
+# Format latest commit date
+# -----------------------------
 if latest_commit != "unknown":
     dt = datetime.strptime(latest_commit, "%Y-%m-%d")
     latest_commit = dt.strftime("%Y.%m.%d")
@@ -50,6 +53,15 @@ elif push_events >= 1:
     activity_heat = "LOW"
 else:
     activity_heat = "RECHARGING"
+
+# -----------------------------
+# Get current project
+# -----------------------------
+try:
+    with open("data/current_project.txt", "r", encoding="utf-8") as f:
+        current_project = f.read().strip()
+except FileNotFoundError:
+    current_project = "unknown"
 
 # -----------------------------
 # Build Status Block
@@ -70,8 +82,6 @@ status_block = (
 # -----------------------------
 # Replace in README
 # -----------------------------
-import re
-
 with open(README_FILE, "r", encoding="utf-8") as f:
     readme = f.read()
 
@@ -85,13 +95,8 @@ updated_readme = re.sub(
 with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(updated_readme)
 
-print(f"README updated — latest_commit: {latest_commit}, activity_heat: {activity_heat}")
-
-# -----------------------------
-# Get current project
-# -----------------------------
-try:
-    with open("data/current_project.txt", "r", encoding="utf-8") as f:
-        current_project = f.read().strip()
-except FileNotFoundError:
-    current_project = "unknown"
+print(
+    f"README updated — latest_commit: {latest_commit}, "
+    f"activity_heat: {activity_heat}, "
+    f"current_project: {current_project}"
+)
