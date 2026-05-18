@@ -18,13 +18,16 @@
 
 <!-- SYSTEM_STATUS_START -->
 
+## system.status
+
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
-+ current_project  : AI-Data-Analyst
-+ latest_commit    : 2026.05.14
-+ activity_heat    : HIGH
++ current_project  : github-insights-engine
++ latest_commit    : 2026.05.18
++ activity_heat    : INSANE
 ```
+
 <!-- SYSTEM_STATUS_END -->
   </td>
     <td valign="top" width="45%">
