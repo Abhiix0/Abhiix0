@@ -16,6 +16,8 @@
 
 ## system.status
 
+<!-- SYSTEM_STATUS_START -->
+
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
@@ -23,7 +25,7 @@
 + latest_commit    : 2026.05.14
 + activity_heat    : HIGH
 ```
-
+<!-- SYSTEM_STATUS_END -->
   </td>
     <td valign="top" width="45%">
       <img alt="Builder GIF" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%" />
