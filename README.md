@@ -14,8 +14,6 @@
   <tr>
     <td valign="top" width="55%">
 
-## system.status
-
 <!-- SYSTEM_STATUS_START -->
 
 ## system.status
