@@ -18,8 +18,6 @@
 
 <!-- SYSTEM_STATUS_START -->
 
-## system.status
-
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
