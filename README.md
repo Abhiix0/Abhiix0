@@ -21,7 +21,7 @@
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
-+ current_project  : github-insights-engine
++ current_project  : Spawn
 + latest_commit    : 2026.06.06
 + activity_heat    : INSANE
 ```
