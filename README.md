@@ -16,13 +16,13 @@
 
 <!-- SYSTEM_STATUS_START -->
 
-## System.Status
+## system.status
 
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
 + current_project  : Spawn
-+ latest_commit    : 2026.06.12
++ latest_commit    : 2026.06.13
 + activity_heat    : INSANE
 ```
 
