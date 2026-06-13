@@ -16,7 +16,7 @@
 
 <!-- SYSTEM_STATUS_START -->
 
-## system.status
+## System.Status
 
 ```txt
 + curiosity        : online
