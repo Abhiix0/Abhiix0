@@ -39,7 +39,7 @@
 ## My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,react,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux" />
 </p>
 
 <p align="center">
@@ -57,18 +57,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APIs-Design%20%26%20Integration-FF6C37?style=flat"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render%20%7C%20Netlify-000000?style=flat"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lyzr%20Studio-Agentic%20AI-6C47FF?style=flat"/>
+  <img src="https://img.shields.io/badge/DBeaver-Database%20Management-372923?style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/APIs-Design%20%26%20Integration-FF6C37?style=flat"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 
 <p align="center"><i>· · · always expanding · · ·</i></p>
