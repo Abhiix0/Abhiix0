@@ -72,10 +72,60 @@
 
 ## What I've Built
 
-| Project | Tools | Description |
-|---|---|---|
-| [data-insight-lab](https://github.com/Abhiix0/data-insight-lab) | Power BI, DAX | Built interactive dashboards to transform messy datasets into clear, actionable insights |
-| [AI-Data-Analyst](https://github.com/Abhiix0/AI-Data-Analyst.git) | Python, Streamlit | Multi-agent system that analyzes datasets and generates insights using AI-driven workflows |
+<table>
+<tr>
+<td width="33%">
+
+### 🚀 Spawn
+
+**Python · Typer · Rich**
+
+CLI tool that scaffolds production-ready Python projects in seconds.
+
+- Creates project structure automatically
+- Initializes Git & GitHub repositories
+- Configures `uv` environment management
+- Eliminates repetitive setup work
+
+🔗 [Repository](https://github.com/Abhiix0/Spawn)
+
+</td>
+
+<td width="33%">
+
+### 📊 PIS
+
+**Python · PostgreSQL · Machine Learning**
+
+Placement Intelligence System designed to measure and improve student readiness.
+
+- Feature-engineered student performance metrics
+- ML-powered readiness scoring
+- Coding activity tracking
+- Personalized improvement insights
+
+🔗 [Repository](https://github.com/Abhiix0/PIS)
+
+</td>
+
+<td width="33%">
+
+### 🤖 AI Data Analyst
+
+**Python · Streamlit · Agentic AI**
+
+Multi-agent analytics platform that transforms raw datasets into actionable insights.
+
+- Automated dataset exploration
+- AI-generated reports and summaries
+- Intelligent workflow orchestration
+- Interactive Streamlit interface
+
+🔗 [Repository](https://github.com/Abhiix0/AI-Data-Analyst)
+
+</td>
+</tr>
+</table>
 
 <br>
 
