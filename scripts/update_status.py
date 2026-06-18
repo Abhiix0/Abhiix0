@@ -7,9 +7,7 @@ USERNAME = "Abhiix0"
 README_FILE = "README.md"
 
 # -----------------------------
-
 # Get latest commit date
-
 # -----------------------------
 
 url = f"https://api.github.com/users/{USERNAME}/events"
@@ -18,72 +16,65 @@ headers = {"Accept": "application/vnd.github+json"}
 response = requests.get(url, headers=headers)
 
 if response.status_code != 200:
-print(f"GitHub API error: {response.status_code} - {response.text}")
-sys.exit(1)
+    print(f"GitHub API error: {response.status_code} - {response.text}")
+    sys.exit(1)
 
 events = response.json()
 
 if not isinstance(events, list):
-print(f"Unexpected API response: {events}")
-sys.exit(1)
+    print(f"Unexpected API response: {events}")
+    sys.exit(1)
 
 latest_commit = "unknown"
 push_events = 0
 
 for event in events:
-if event.get("type") == "PushEvent":
-push_events += 1
-if latest_commit == "unknown":
-latest_commit = event["created_at"][:10]
+    if event.get("type") == "PushEvent":
+        push_events += 1
+
+        if latest_commit == "unknown":
+            latest_commit = event["created_at"][:10]
 
 # -----------------------------
-
 # Format latest commit date
-
 # -----------------------------
 
 if latest_commit != "unknown":
-dt = datetime.strptime(latest_commit, "%Y-%m-%d")
-latest_commit = dt.strftime("%Y.%m.%d")
+    dt = datetime.strptime(latest_commit, "%Y-%m-%d")
+    latest_commit = dt.strftime("%Y.%m.%d")
 
 # -----------------------------
-
 # Activity Heat Logic
-
 # -----------------------------
 
 if push_events >= 15:
-activity_heat = "INSANE"
+    activity_heat = "INSANE"
 elif push_events >= 8:
-activity_heat = "HIGH"
+    activity_heat = "HIGH"
 elif push_events >= 3:
-activity_heat = "STABLE"
+    activity_heat = "STABLE"
 elif push_events >= 1:
-activity_heat = "LOW"
+    activity_heat = "LOW"
 else:
-activity_heat = "RECHARGING"
+    activity_heat = "RECHARGING"
 
 # -----------------------------
-
 # Get current project
-
 # -----------------------------
 
 try:
-with open("data/current_project.txt", "r", encoding="utf-8") as f:
-current_project = f.read().strip()
+    with open("data/current_project.txt", "r", encoding="utf-8") as f:
+        current_project = f.read().strip()
 except FileNotFoundError:
-current_project = "unknown"
+    current_project = "unknown"
 
 # -----------------------------
-
 # Build Status Block
-
 # -----------------------------
 
 status_block = (
-"<!-- SYSTEM_STATUS_START -->\n\n"
-"`txt\n"
+    "<!-- SYSTEM_STATUS_START -->\n\n"
+    "```txt\n"
     "+ curiosity        : online\n"
     "+ sleep_schedule   : unstable\n"
     f"+ current_project  : {current_project}\n"
@@ -92,31 +83,29 @@ status_block = (
     "+ coffee_dependency: critical\n"
     "+ debug_mode       : always\n"
     "+ open_to          : collabs & opportunities\n"
-    "`\n\n"
-"<!-- SYSTEM_STATUS_END -->"
+    "```\n\n"
+    "<!-- SYSTEM_STATUS_END -->"
 )
 
 # -----------------------------
-
 # Replace in README
-
 # -----------------------------
 
 with open(README_FILE, "r", encoding="utf-8") as f:
-readme = f.read()
+    readme = f.read()
 
 updated_readme = re.sub(
-r"<!-- SYSTEM_STATUS_START -->.*?<!-- SYSTEM_STATUS_END -->",
-status_block,
-readme,
-flags=re.DOTALL,
+    r"<!-- SYSTEM_STATUS_START -->.*?<!-- SYSTEM_STATUS_END -->",
+    status_block,
+    readme,
+    flags=re.DOTALL,
 )
 
 with open(README_FILE, "w", encoding="utf-8") as f:
-f.write(updated_readme)
+    f.write(updated_readme)
 
 print(
-f"README updated — latest_commit: {latest_commit}, "
-f"activity_heat: {activity_heat}, "
-f"current_project: {current_project}"
+    f"README updated — latest_commit: {latest_commit}, "
+    f"activity_heat: {activity_heat}, "
+    f"current_project: {current_project}"
 )
