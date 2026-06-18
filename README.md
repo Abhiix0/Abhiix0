@@ -16,7 +16,6 @@
 
 <!-- SYSTEM_STATUS_START -->
 
-## system.status
 
 ```txt
 + curiosity        : online
@@ -24,12 +23,15 @@
 + current_project  : Spawn
 + latest_commit    : 2026.06.17
 + activity_heat    : INSANE
++ coffee_dependency: critical
++ debug_mode       : always
++ open_to          : collabs & opportunities
 ```
 
 <!-- SYSTEM_STATUS_END -->
   </td>
     <td valign="top" width="45%">
-      <img alt="Builder GIF" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%" />
+       <img alt="Builder GIF" src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%" height="220px" style="object-fit:cover;" />
     </td>
   </tr>
 </table>
