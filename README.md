@@ -43,27 +43,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat"/>
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Analysis-4c8cbf?style=flat"/>
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Polars-Fast%20DataFrames-FF6600?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-Analytical%20Queries-FFC107?style=flat&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lyzr%20Studio-Agentic%20AI-6C47FF?style=flat"/>
+  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat"/>
   <img src="https://img.shields.io/badge/DBeaver-Database%20Management-372923?style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/APIs-Design%20%26%20Integration-FF6C37?style=flat"/>
   <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 
