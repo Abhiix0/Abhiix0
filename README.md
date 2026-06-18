@@ -16,14 +16,16 @@
 
 <!-- SYSTEM_STATUS_START -->
 
-## system.status
 
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
 + current_project  : Spawn
-+ latest_commit    : 2026.06.18
++ latest_commit    : 2026.06.17
 + activity_heat    : INSANE
++ coffee_dependency: critical
++ debug_mode       : always
++ open_to          : collabs & opportunities
 ```
 
 <!-- SYSTEM_STATUS_END -->
