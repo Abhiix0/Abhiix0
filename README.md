@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>logic meeting longing</i>
+  <i>still figuring things out.</i>
 </p>
 
 <p align="center">
