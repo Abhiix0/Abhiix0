@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Views&color=1f2937&labelColor=0f172a&style=flat" />
 </p>
 
-<table>
+<table style="width:100%;">
   <tr>
     <td valign="top" width="55%">
 
