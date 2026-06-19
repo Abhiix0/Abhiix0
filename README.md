@@ -76,11 +76,6 @@
 
 CLI tool that scaffolds production-ready Python projects in seconds.
 
-- Creates project structure automatically
-- Initializes Git & GitHub repositories
-- Configures `uv` environment management
-- Eliminates repetitive setup work
-
 🔗 [Repository](https://github.com/Abhiix0/Spawn)
 
 </td>
@@ -93,11 +88,6 @@ CLI tool that scaffolds production-ready Python projects in seconds.
 
 Placement Intelligence System designed to measure and improve student readiness.
 
-- Feature-engineered student performance metrics
-- ML-powered readiness scoring
-- Coding activity tracking
-- Personalized improvement insights
-
 🔗 [Repository](https://github.com/Abhiix0/PIS)
 
 </td>
@@ -109,11 +99,6 @@ Placement Intelligence System designed to measure and improve student readiness.
 **Python · Streamlit · Agentic AI**
 
 Multi-agent analytics platform that transforms raw datasets into actionable insights.
-
-- Automated dataset exploration
-- AI-generated reports and summaries
-- Intelligent workflow orchestration
-- Interactive Streamlit interface
 
 🔗 [Repository](https://github.com/Abhiix0/AI-Data-Analyst)
 
