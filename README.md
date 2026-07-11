@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" />
+  <img src="./assets/banner.svg" alt="Abhinav Sai banner" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Views&color=1f2937&labelColor=0f172a&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Abhiix0&label=Views&color=1f2937&labelColor=0f172a&style=flat" alt="profile views" />
 </p>
 
 <div align="center">
@@ -42,27 +42,28 @@
 ## My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux" alt="core skill icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-Fast%20DataFrames-FF6600?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-Analytical%20Queries-FFC107?style=flat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Polars-Fast%20DataFrames-FF6600?style=flat&logoColor=white" alt="Polars"/>
+  <img src="https://img.shields.io/badge/DuckDB-Analytical%20Queries-FFC107?style=flat&logoColor=black" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat"/>
-  <img src="https://img.shields.io/badge/DBeaver-Database%20Management-372923?style=flat"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat" alt="uv"/>
+  <img src="https://img.shields.io/badge/DBeaver-Database%20Management-372923?style=flat" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 <p align="center"><i>· · · always expanding · · ·</i></p>
 
+---
 
 ## What I've Built
 
@@ -70,12 +71,11 @@
 <tr>
 <td width="33%">
 
-### 🚀 Spawn
+### 🚀 Spawn `flagship`
 
 **Python · Typer · Rich**
 
 CLI tool that scaffolds production-ready Python projects in seconds.
-
 
 🔗 [Repository](https://github.com/Abhiix0/Spawn)
 
@@ -108,17 +108,17 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 </tr>
 </table>
 
-<br>
+---
 
 ## Dev Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Abhiix0's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph" />
 </p>
 
 <p align="center">
@@ -135,8 +135,13 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sai-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sai-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- add your portfolio link here, e.g.:
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  -->
 </p>
 
 <p align="center">📬 <b>abhinavsai039@gmail.com</b></p>
