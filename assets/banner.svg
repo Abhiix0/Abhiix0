@@ -1,32 +1,27 @@
-<svg width="100%" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="bgGrad" cx="15%" cy="50%" r="60%" fx="10%" fy="50%">
       <stop offset="0%" stop-color="#0a2a4a"/>
       <stop offset="50%" stop-color="#050d1a"/>
       <stop offset="100%" stop-color="#000000"/>
     </radialGradient>
-
     <radialGradient id="bgGrad2" cx="85%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#0a2a4a" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-
     <radialGradient id="glowBottom" cx="50%" cy="100%" r="70%">
       <stop offset="0%" stop-color="#009faa" stop-opacity="0.75"/>
       <stop offset="60%" stop-color="#005566" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-
     <radialGradient id="glowLeft" cx="0%" cy="100%" r="55%">
       <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.7"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-
     <radialGradient id="glowRight" cx="100%" cy="100%" r="50%">
       <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
-
     <linearGradient id="textMetal" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#e0e8f0"/>
       <stop offset="35%" stop-color="#ffffff"/>
@@ -34,46 +29,59 @@
       <stop offset="80%" stop-color="#90a4ae"/>
       <stop offset="100%" stop-color="#cfd8dc"/>
     </linearGradient>
-
     <clipPath id="roundClip">
-      <rect width="800" height="90" rx="12" ry="12"/>
+      <rect width="800" height="120" rx="12" ry="12"/>
     </clipPath>
-
     <filter id="borderGlow" x="-5%" y="-10%" width="110%" height="120%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
-
     <filter id="textShadow">
       <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#00bcd4" flood-opacity="0.2"/>
     </filter>
   </defs>
 
-  <rect width="800" height="90" rx="12" ry="12" fill="#020810"/>
-  <rect width="800" height="90" rx="12" ry="12" fill="url(#bgGrad)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="90" rx="12" ry="12" fill="url(#bgGrad2)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="90" rx="12" ry="12" fill="url(#glowBottom)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="90" rx="12" ry="12" fill="url(#glowLeft)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="90" rx="12" ry="12" fill="url(#glowRight)" clip-path="url(#roundClip)"/>
-
-  <rect x="1" y="1" width="798" height="88" rx="11" ry="11"
+  <rect width="800" height="120" rx="12" ry="12" fill="#020810"/>
+  <rect width="800" height="120" rx="12" ry="12" fill="url(#bgGrad)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="120" rx="12" ry="12" fill="url(#bgGrad2)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowBottom)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowLeft)" clip-path="url(#roundClip)"/>
+  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowRight)" clip-path="url(#roundClip)"/>
+  <rect x="1" y="1" width="798" height="118" rx="11" ry="11"
         fill="none" stroke="#00bcd4" stroke-width="1.5" stroke-opacity="0.65"
         filter="url(#borderGlow)"/>
-  <rect x="3" y="3" width="794" height="84" rx="9" ry="9"
+  <rect x="3" y="3" width="794" height="114" rx="9" ry="9"
         fill="none" stroke="#ffffff" stroke-width="0.4" stroke-opacity="0.07"/>
 
+  <!-- name -->
   <text
-    x="50%" y="52%"
+    x="50%" y="48"
     text-anchor="middle"
     dominant-baseline="middle"
     fill="url(#textMetal)"
-    font-size="36"
+    font-size="34"
     font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
     font-weight="300"
-    letter-spacing="2"
+    letter-spacing="3"
     filter="url(#textShadow)"
   >
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="2.2s" fill="freeze"/>
-     ASG
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;1" dur="1.8s" fill="freeze"/>
+    ABHINAV SAI
+  </text>
+
+  <!-- role line -->
+  <text
+    x="50%" y="82"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#7fd8e0"
+    fill-opacity="0.85"
+    font-size="14"
+    font-family="'Courier New', ui-monospace, monospace"
+    font-weight="400"
+    letter-spacing="1.5"
+  >
+    <animate attributeName="opacity" values="0;0;0;0.85" keyTimes="0;0.4;0.55;1" dur="2.4s" fill="freeze"/>
+    ML/AI Engineer-in-training &#183; Cloud &amp; DevOps
   </text>
 </svg>
