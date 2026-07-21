@@ -22,7 +22,7 @@
 + sleep_schedule   : unstable
 + current_project  : Spawn
 + latest_commit    : 2026.07.21
-+ activity_heat    : HIGH
++ activity_heat    : INSANE
 + coffee_dependency: critical
 + debug_mode       : always
 + open_to          : collabs & opportunities
