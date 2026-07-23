@@ -118,7 +118,11 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiix0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
