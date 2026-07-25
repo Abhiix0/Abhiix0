@@ -53,6 +53,28 @@
   <rect x="3" y="3" width="794" height="114" rx="9" ry="9"
         fill="none" stroke="#ffffff" stroke-width="0.4" stroke-opacity="0.07"/>
 
+  <!-- corner brackets -->
+  <g stroke="#00e5ff" stroke-width="1.6" stroke-opacity="0.75" fill="none" stroke-linecap="round">
+    <!-- top-left -->
+    <path d="M14,28 L14,14 L28,14"/>
+    <!-- bottom-right -->
+    <path d="M786,92 L786,106 L772,106"/>
+  </g>
+
+  <!-- status dot, top-right -->
+  <g transform="translate(772,18)">
+    <circle r="7" fill="#00e5ff" opacity="0.18">
+      <animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.05;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.2" fill="#00e5ff"/>
+  </g>
+  <text x="762" y="21" text-anchor="end" dominant-baseline="middle"
+        fill="#7fd8e0" fill-opacity="0.8" font-size="9.5"
+        font-family="'Courier New', ui-monospace, monospace" letter-spacing="1">
+    online
+  </text>
+
   <!-- name -->
   <text
     x="50%" y="48"
