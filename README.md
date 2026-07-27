@@ -118,7 +118,7 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiix0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=Abhiix0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
