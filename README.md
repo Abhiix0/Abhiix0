@@ -122,7 +122,7 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiix0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Abhiix0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
