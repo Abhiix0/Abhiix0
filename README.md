@@ -134,22 +134,24 @@ Multi-agent analytics platform that transforms raw datasets into actionable insi
 </p>
 
 ---
-
 ## Get in Touch
+
+<div align="center">
+
+<p align="center">
+  <a href="mailto:abhinavsai039@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-abhinavsai039%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=0f172a" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sai-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinav_Sai-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0f172a" alt="LinkedIn" />
   </a>
-  <!-- add your portfolio link here, e.g.:
-  <a href="https://your-portfolio-url.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  -->
 </p>
 
-<p align="center">📬 <b>abhinavsai039@gmail.com</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Got+an+idea%3F+Let's+build+it.;Open+for+backend+%26+data+collabs.;Drop+a+ping+anytime." alt="Typing SVG" />
+</p>
 
----
-
-<p align="center"><i>still loading new skills...</i></p>
+</div>
