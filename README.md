@@ -20,7 +20,7 @@
 ```txt
 + curiosity        : online
 + sleep_schedule   : unstable
-+ current_project  : Preflight
++ current_project  : spawn
 + latest_commit    : 2026.08.15
 + activity_heat    : HIGH
 + coffee_dependency: critical
