@@ -49,24 +49,15 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Firebase-Backend%20Platform-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-Backend%20Platform-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/uv-Dependency%20Management-8B5CF6?style=flat" alt="uv"/>
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-Data%20Viz-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
 <p align="center"><i>· · · always expanding · · ·</i></p>
-
 ---
 
 ## What I've Built
