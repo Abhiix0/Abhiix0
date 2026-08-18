@@ -42,14 +42,15 @@
 ## My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,git,github,vscode,linux" alt="core skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,express,fastapi,mysql,postgresql,mongodb,git,github,vscode,linux" alt="core skill icons" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/FastAPI-Backend%20API-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend%20Platform-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-Backend%20Platform-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 <p align="center">
