@@ -67,7 +67,7 @@
 <tr>
 <td width="33%">
 
-### 🚀 Spawn `flagship`
+###  Spawn `flagship`
 
 **Python · Typer · Rich**
 
@@ -79,26 +79,25 @@ CLI tool that scaffolds production-ready Python projects in seconds.
 
 <td width="33%">
 
-### 📊 PIS
+###  Havoc
+
+**TypeScript · Extension**
+
+One-click chaos testing to bully web apps before production breaks.
+
+🔗 [Repository](https://github.com/Abhiix0/Havoc)
+
+</td>
+
+<td width="33%">
+
+###  PIS
 
 **Python · PostgreSQL · Machine Learning**
 
 Placement Intelligence System designed to measure and improve student readiness.
 
 🔗 [Repository](https://github.com/Abhiix0/PIS)
-
-</td>
-
-<td width="33%">
-
-### 🤖 AI Data Analyst
-
-**Python · Streamlit · Agentic AI**
-
-Multi-agent analytics platform that transforms raw datasets into actionable insights.
-
-
-🔗 [Repository](https://github.com/Abhiix0/AI-Data-Analyst)
 
 </td>
 </tr>
