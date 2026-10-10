@@ -42,19 +42,29 @@
 ## My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,express,fastapi,mysql,postgresql,mongodb,git,github,vscode,linux" alt="core skill icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,fastapi" alt="Languages and frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,linux,vscode" alt="Databases and developer tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-003B57?style=flat" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Ruff-Linting%20%26%20Formatting-D7FF64?style=flat&logo=ruff&logoColor=black" alt="Ruff"/>
+  <img src="https://img.shields.io/badge/uv-Python%20Packaging-DE5FE9?style=flat" alt="uv"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/FastAPI-API%20Development-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 <p align="center"><i>· · · always expanding · · ·</i></p>
