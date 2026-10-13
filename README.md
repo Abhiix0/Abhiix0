@@ -127,8 +127,6 @@ Placement Intelligence System designed to measure and improve student readiness.
 </p>
 
 ---
----
-
 ## Get in Touch
 
 <div align="center">
