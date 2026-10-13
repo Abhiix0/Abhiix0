@@ -1,109 +1,129 @@
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3840" height="1280" viewBox="0 0 3840 1280" role="img" aria-labelledby="title desc">
+  <title id="title">Abhinav Sai G | Software Engineer</title>
+  <desc id="desc">Monochrome developer banner featuring Python, Java, TypeScript, React, Next.js, backend systems, AI, and data engineering.</desc>
   <defs>
-    <radialGradient id="bgGrad" cx="15%" cy="50%" r="60%" fx="10%" fy="50%">
-      <stop offset="0%" stop-color="#0a2a4a"/>
-      <stop offset="50%" stop-color="#050d1a"/>
-      <stop offset="100%" stop-color="#000000"/>
-    </radialGradient>
-    <radialGradient id="bgGrad2" cx="85%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0a2a4a" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowBottom" cx="50%" cy="100%" r="70%">
-      <stop offset="0%" stop-color="#009faa" stop-opacity="0.75"/>
-      <stop offset="60%" stop-color="#005566" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowLeft" cx="0%" cy="100%" r="55%">
-      <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowRight" cx="100%" cy="100%" r="50%">
-      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="textMetal" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#e0e8f0"/>
-      <stop offset="35%" stop-color="#ffffff"/>
-      <stop offset="55%" stop-color="#b0bec5"/>
-      <stop offset="80%" stop-color="#90a4ae"/>
-      <stop offset="100%" stop-color="#cfd8dc"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2=".65">
+      <stop offset="0" stop-color="#08090b"/>
+      <stop offset=".48" stop-color="#17191d"/>
+      <stop offset=".78" stop-color="#34363a"/>
+      <stop offset="1" stop-color="#101114"/>
     </linearGradient>
-    <clipPath id="roundClip">
-      <rect width="800" height="120" rx="12" ry="12"/>
-    </clipPath>
-    <filter id="borderGlow" x="-5%" y="-10%" width="110%" height="120%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5f5f5"/>
+      <stop offset=".55" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a8abb1"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".015"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#d9dce1" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#d9dce1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 0H8" stroke="#fff" stroke-opacity=".035" stroke-width="2"/>
+    </pattern>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#fff" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="textShadow">
-      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#00bcd4" flood-opacity="0.2"/>
-    </filter>
+    <clipPath id="portraitClip"><path d="M2540 120 Q2870 40 3215 165 L3260 1080 Q2910 1190 2540 1030Z"/></clipPath>
+    <mask id="portraitFade">
+      <linearGradient id="fadeMask" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#000"/>
+        <stop offset=".15" stop-color="#fff"/>
+        <stop offset="1" stop-color="#fff"/>
+      </linearGradient>
+      <rect x="2420" y="0" width="1000" height="1280" fill="url(#fadeMask)"/>
+    </mask>
   </defs>
 
-  <rect width="800" height="120" rx="12" ry="12" fill="#020810"/>
-  <rect width="800" height="120" rx="12" ry="12" fill="url(#bgGrad)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="120" rx="12" ry="12" fill="url(#bgGrad2)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowBottom)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowLeft)" clip-path="url(#roundClip)"/>
-  <rect width="800" height="120" rx="12" ry="12" fill="url(#glowRight)" clip-path="url(#roundClip)"/>
-  <rect x="1" y="1" width="798" height="118" rx="11" ry="11"
-        fill="none" stroke="#00bcd4" stroke-width="1.5" stroke-opacity="0.65"
-        filter="url(#borderGlow)"/>
-  <rect x="3" y="3" width="794" height="114" rx="9" ry="9"
-        fill="none" stroke="#ffffff" stroke-width="0.4" stroke-opacity="0.07"/>
+  <!-- Monochrome, low-noise technical canvas -->
+  <rect width="3840" height="1280" fill="url(#bg)"/>
+  <rect width="3840" height="1280" fill="url(#grid)"/>
+  <rect width="3840" height="1280" fill="url(#scanlines)"/>
+  <ellipse cx="3000" cy="560" rx="920" ry="780" fill="url(#halo)"/>
+  <path d="M0 1040 L1280 780 L2080 950 L2900 690 L3840 850 V1280 H0Z" fill="#000" opacity=".22"/>
 
-  <!-- corner brackets -->
-  <g stroke="#00e5ff" stroke-width="1.6" stroke-opacity="0.75" fill="none" stroke-linecap="round">
-    <!-- top-left -->
-    <path d="M14,28 L14,14 L28,14"/>
-    <!-- bottom-right -->
-    <path d="M786,92 L786,106 L772,106"/>
+  <!-- Faint Japanese glyphs, kept atmospheric rather than decorative noise -->
+  <g fill="#f1f1f1" opacity=".105" font-family="monospace" font-size="52">
+    <text x="2050" y="210">静かな構築</text><text x="2250" y="295">思考 / 設計</text>
+    <text x="3420" y="260">自由</text><text x="3550" y="335">探求</text>
+    <text x="2140" y="1040">コードは思考の痕跡</text><text x="3350" y="990">可能性</text>
   </g>
 
-  <!-- status dot, top-right -->
-  <g transform="translate(772,18)">
-    <circle r="7" fill="#00e5ff" opacity="0.18">
-      <animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.25;0.05;0.25" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="3.2" fill="#00e5ff"/>
+  <!-- Fine framing marks -->
+  <g fill="none" stroke="#d9dce1" stroke-opacity=".38" stroke-width="3">
+    <path d="M95 110V70H135 M3705 70H3745V110 M95 1170V1210H135 M3705 1210H3745V1170"/>
+    <path d="M2350 155h-65v65 M3310 155h65v65 M2350 1060h-65v-65 M3310 1060h65v-65" stroke-opacity=".65"/>
   </g>
-  <text x="762" y="21" text-anchor="end" dominant-baseline="middle"
-        fill="#7fd8e0" fill-opacity="0.8" font-size="9.5"
-        font-family="'Courier New', ui-monospace, monospace" letter-spacing="1">
-    online
-  </text>
 
-  <!-- name -->
-  <text
-    x="50%" y="48"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    fill="url(#textMetal)"
-    font-size="34"
-    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-weight="300"
-    letter-spacing="3"
-    filter="url(#textShadow)"
-  >
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;1" dur="1.8s" fill="freeze"/>
-    ABHINAV SAI
-  </text>
+  <!-- Identity -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="170" y="250" fill="#d5d7db" font-size="34" letter-spacing="12" font-weight="600">INDEPENDENT BUILDER  /  SOFTWARE ENGINEERING</text>
+    <text x="150" y="505" fill="#000" opacity=".4" font-size="220" font-weight="900" letter-spacing="5">ABHINAV SAI G</text>
+    <text x="140" y="492" fill="url(#shine)" font-size="220" font-weight="900" letter-spacing="5">ABHINAV SAI G</text>
+    <rect x="150" y="555" width="760" height="5" fill="#f3f3f3" opacity=".9"/>
+    <rect x="920" y="555" width="170" height="5" fill="#aeb2b9" opacity=".45"/>
+    <text x="155" y="650" fill="#f0f0f0" font-size="70" font-weight="700" letter-spacing="15">AI  /  DATA  /  BACKEND</text>
+    <text x="160" y="724" fill="#aeb2b9" font-size="35" letter-spacing="5">BUILDING TOOLS THAT MAKE BUILDING BETTER.</text>
+  </g>
 
-  <!-- role line -->
-  <text
-    x="50%" y="82"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    fill="#7fd8e0"
-    fill-opacity="0.85"
-    font-size="14"
-    font-family="'Courier New', ui-monospace, monospace"
-    font-weight="400"
-    letter-spacing="1.5"
-  >
-    <animate attributeName="opacity" values="0;0;0;0.85" keyTimes="0;0.4;0.55;1" dur="2.4s" fill="freeze"/>
-    ML/AI Engineer-in-training &#183; Cloud &amp; DevOps
-  </text>
+  <!-- Skills: short, true-to-profile, and readable at banner scale -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" letter-spacing="2">
+    <g transform="translate(155 810)">
+      <rect width="250" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="125" y="47" fill="#f2f2f2" text-anchor="middle">PYTHON</text>
+    </g>
+    <g transform="translate(425 810)">
+      <rect width="190" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="95" y="47" fill="#f2f2f2" text-anchor="middle">JAVA</text>
+    </g>
+    <g transform="translate(635 810)">
+      <rect width="310" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="155" y="47" fill="#f2f2f2" text-anchor="middle">TYPESCRIPT</text>
+    </g>
+    <g transform="translate(965 810)">
+      <rect width="230" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="115" y="47" fill="#f2f2f2" text-anchor="middle">REACT</text>
+    </g>
+    <g transform="translate(155 910)">
+      <rect width="275" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="137" y="47" fill="#f2f2f2" text-anchor="middle">FASTAPI</text>
+    </g>
+    <g transform="translate(450 910)">
+      <rect width="340" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="170" y="47" fill="#f2f2f2" text-anchor="middle">POSTGRESQL</text>
+    </g>
+    <g transform="translate(810 910)">
+      <rect width="280" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="140" y="47" fill="#f2f2f2" text-anchor="middle">MONGODB</text>
+    </g>
+    <g transform="translate(1110 910)">
+      <rect width="250" height="72" rx="5" fill="url(#panel)" stroke="#dfe1e5" stroke-opacity=".45"/><text x="125" y="47" fill="#f2f2f2" text-anchor="middle">AI / ML</text>
+    </g>
+    <text x="160" y="1060" fill="#c3c6cc" font-size="28" letter-spacing="4">GIT + GITHUB  ·  DOCKER  ·  REST APIS  ·  DATA SYSTEMS</text>
+  </g>
+
+  <!-- Portrait panel and viewfinder brackets -->
+  <g opacity=".95">
+    <path d="M2460 115 Q2820 35 3230 145 L3280 1080 Q2880 1170 2460 1035Z" fill="#d6d8dc" opacity=".055"/>
+    <path d="M2490 145h-70v70 M3220 145h70v70 M2490 1050h-70v-70 M3220 1050h70v-70" fill="none" stroke="#f4f4f4" stroke-width="5" stroke-opacity=".65"/>
+    <circle cx="2870" cy="600" r="440" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="2" stroke-dasharray="3 18"/>
+  </g>
+  <image
+  x="2470"
+  y="115"
+  width="850"
+  height="970"
+  preserveAspectRatio="xMidYMid slice"
+  clip-path="url(#portraitClip)"
+  mask="url(#portraitFade)"
+  href="https://raw.githubusercontent.com/Abhiix0/Abhiix0/main/assets/hehe.jpg"
+  xlink:href="https://raw.githubusercontent.com/Abhiix0/Abhiix0/main/assets/hehe.jpg"/>
+
+  <!-- Footer metadata -->
+  <g font-family="monospace" fill="#b9bdc4" font-size="27" letter-spacing="3">
+    <text x="160" y="1170">MLRIT ’28</text>
+    <text x="590" y="1170">OPEN SOURCE / CONTINUOUSLY LEARNING</text>
+    <text x="3310" y="1170" text-anchor="end">ABHIix0</text>
+  </g>
+  <path d="M155 1195H1500 M3310 1195H3675" stroke="#bfc3c9" stroke-opacity=".25" stroke-width="2"/>
 </svg>
