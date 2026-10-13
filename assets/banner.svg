@@ -117,7 +117,7 @@
   clip-path="url(#portraitClip)"
   mask="url(#portraitFade)"
   href="https://raw.githubusercontent.com/Abhiix0/Abhiix0/main/assets/hehe.jpg"
-  xlink:href="https://raw.githubusercontent.com/Abhiix0/Abhiix0/main/assets/hehe.jpg"/>
+/>
 
   <!-- Footer metadata -->
   <g font-family="monospace" fill="#b9bdc4" font-size="27" letter-spacing="3">
