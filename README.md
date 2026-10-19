@@ -33,50 +33,6 @@
 <p align="center"><i>· · · always expanding · · ·</i></p>
 
 ---
-
-## What I've Built
-
-<table>
-<tr>
-<td width="33%">
-
-###  Spawn `flagship`
-
-**Python · Typer · Rich**
-
-CLI tool that scaffolds production-ready Python projects in seconds.
-
-🔗 [Repository](https://github.com/Abhiix0/Spawn)
-
-</td>
-
-<td width="33%">
-
-###  Havoc
-
-**TypeScript · Extension**
-
-One-click chaos testing to bully web apps before production breaks.
-
-🔗 [Repository](https://github.com/Abhiix0/Havoc)
-
-</td>
-
-<td width="33%">
-
-###  PIS
-
-**Python · PostgreSQL · Machine Learning**
-
-Placement Intelligence System designed to measure and improve student readiness.
-
-🔗 [Repository](https://github.com/Abhiix0/PIS)
-
-</td>
-</tr>
-</table>
-
----
 ## Dev Activity
 
 <p align="center">
