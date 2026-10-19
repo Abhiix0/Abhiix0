@@ -32,7 +32,6 @@
 
 <p align="center"><i>· · · always expanding · · ·</i></p>
 
----
 ## Dev Activity
 
 <p align="center">
@@ -82,7 +81,6 @@
   </picture>
 </p>
 
----
 ## Get in Touch
 
 <div align="center">
