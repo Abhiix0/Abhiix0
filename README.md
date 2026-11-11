@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Abhinav Sai banner" />
+  <img src="./assets/banner.png" alt="Abhinav Sai banner" />
 </p>
 
 ## My Arsenal
@@ -32,35 +32,39 @@
 
 <p align="center"><i>· · · always expanding · · ·</i></p>
 
+
+
 ## Dev Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Abhiix0's GitHub stats"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiix0&show_icons=true&hide_border=true&bg_color=0B0909&title_color=D8C8BA&text_color=968477&icon_color=914027"
+    alt="Abhiix0's GitHub Statistics"
     width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiix0&layout=compact&hide_border=true&bg_color=0B0909&title_color=D8C8BA&text_color=968477"
     height="165"
-    alt="Top languages"
+    alt="Top Programming Languages"
   />
   <img
-    src="https://github-readme-streak-stats-two.vercel.app/?user=Abhiix0&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-two.vercel.app/?user=Abhiix0&hide_border=true&background=0B0909&stroke=30201A&ring=78351F&fire=A66C49&currStreakNum=D8C8BA&sideNums=B99A86&currStreakLabel=914027&sideLabels=968477&dates=716057"
     height="165"
-    alt="GitHub Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Abhiix0&theme=tokyo-night&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Abhiix0&bg_color=0B0909&color=968477&line=78351F&point=A66C49&area=true&area_color=30201A&title_color=D8C8BA&hide_border=true"
+    alt="Abhiix0's GitHub Activity Graph"
     width="95%"
   />
+</p>
+
 </p>
 
 <p align="center">
