@@ -82,9 +82,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <i>· · · character development in progress · · ·</i>
-</p>
 
 ## CH. 03 / THE CROSSOVER
 
