@@ -36,10 +36,6 @@
 ## CH. 02 / THE TRAINING ARC
 
 <p align="center">
-  <i>No filler episodes. Just commits.</i>
-</p>
-
-<p align="center">
   <img
     src="./profile/stats.svg"
     width="49%"
@@ -90,7 +86,7 @@
   <i>· · · character development in progress · · ·</i>
 </p>
 
-## Get in Touch
+## CH. 03 / THE CROSSOVER
 
 <div align="center">
   <table width="100%">
@@ -102,17 +98,17 @@
         <h3>Have something in mind?</h3>
         <p>
           <a href="mailto:abhinavsai039@gmail.com">
-            <img src="https://img.shields.io/badge/Email_Me-abhinavsai039%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=0f172a" alt="Email" />
+            <img src="https://img.shields.io/badge/Email_Me-abhinavsai039%40gmail.com-242424?style=for-the-badge&logo=gmail&logoColor=DC2626&labelColor=0D0D0D" alt="Email" />
           </a>
         </p>
         <p>
           <a href="https://www.linkedin.com/in/abhinav-sai-g-942bb5333">
-            <img src="https://img.shields.io/badge/LinkedIn-Abhinav_Sai-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0f172a" alt="LinkedIn" />
+            <img src="https://img.shields.io/badge/LinkedIn-Abhinav_Sai-242424?style=for-the-badge&logo=linkedin&logoColor=DC2626&labelColor=0D0D0D" alt="LinkedIn" />
           </a>
         </p>
         <br />
         <img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Got+an+idea%3F+Let's+build+it.;Open+for+backend+%26+data+collabs.;Drop+a+ping+anytime."
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=DC2626&center=true&vCenter=true&width=435&lines=Got+an+idea%3F+Let's+build+it.;Open+for+backend+%26+data+collabs.;Drop+a+ping+anytime."
           alt="Contact messages"
         />
       </td>
